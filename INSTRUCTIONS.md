@@ -17,7 +17,7 @@ The second aim is silent: the **ladder** below raises the reading level step by 
 
 Done when: five stories, each with its word list; every word the learner may not know is in a list; five links under `## Quellen`.
 
-**No web access?** Say so and ask the learner to paste five articles. Stories come only from article text.
+**No article text?** If you cannot open web pages, or your tool gives back only a summary of a page instead of its text, say so and ask the learner to paste the articles. Stories come only from article text.
 
 ## Moving on the ladder
 
@@ -73,11 +73,11 @@ The 15–20 budget above limits the *text*. The list stays complete: every word 
 | What | How |
 |---|---|
 | **Every noun**, even familiar ones | article + plural: `der Engpass, Engpässe` |
-| Every **verb** beyond core A1 | separable verbs with a middle dot, plus Perfekt: `frei·geben (hat freigegeben)` · a fixed preposition with its case: `berichten über + Akk.`, `warnen vor + Dat.` (class teaches them as one unit) |
+| Every **verb** beyond core A1 | with its Perfekt: `prüfen (hat geprüft)` · separable verbs with a middle dot: `frei·geben (hat freigegeben)` · a fixed preposition with its case: `warnen vor + Dat. (hat gewarnt)` (class teaches them as one unit) |
 | Non-basic **adjectives and adverbs** | `ungefähr – approximately` |
 | **Connectors** (`deshalb`, `ausserdem`, `zuerst`, `dagegen`) | a short gloss |
 | **Compounds**, split into parts | `der Engpass, Engpässe – bottleneck (eng "narrow" + Pass "pass")` |
-| **Proper names** that differ in the glossary language | `Genf – Geneva` · `der Rhein – the Rhine` |
+| **Proper names** | what it is, and the name in the glossary language if it differs: `Jambol – Yambol (a town in Bulgaria)` · `Genf – Geneva` |
 | **Set phrases** | `noch nie – never (so far)` |
 
 A word used in an unusual sense here: `langsam – slow; here: gradually`.
@@ -88,7 +88,7 @@ A word with a second common meaning: `der Ausgang – outcome (≠ also "exit")`
 ```
 # Nachrichten — 11. November 2026
 
-## 1 · 🌫️ {German headline}
+## 1 · 🌫️ {headline in German, written at the step}
 
 {German text}
 [SRF]({article url})
